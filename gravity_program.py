@@ -8,4 +8,4 @@ def solution(arr_val, arr_unit) :
     gravity_F = 0.0000000000667 * ((m1 * m2)/(d1*d1))
     return (gravity_F)
     
-    
+    #thanks
